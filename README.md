@@ -1,1 +1,1 @@
-# converter
+Simple currency converter for Android
